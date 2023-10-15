@@ -27,7 +27,7 @@
 }
 
 html {
-  background: #000;
+  /* background: #000; */
   font-family: 'TikTokFont', system-ui, sans-serif;
   scroll-behavior: smooth;
 }
